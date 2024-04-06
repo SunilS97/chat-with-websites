@@ -6,3 +6,4 @@ langchain==0.1.14
 langchain-community==0.0.31
 langchain-core==0.1.37
 langchain-openai==0.1.1
+pysqlite3-binary
