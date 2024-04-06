@@ -1,0 +1,8 @@
+beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
+streamlit==1.32.2
+beautifulsoup4==4.11.1  # Please confirm the version number
+python-dotenv==1.0.1
+langchain==0.1.14
+langchain-community==0.0.31
+langchain-core==0.1.37
+langchain-openai==0.1.1
